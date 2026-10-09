@@ -16,8 +16,8 @@ It's been created during lecture 4 of:
 ### where
 It's been created:
 
-| Room | Lichthof |
-| Laptop | Lenovo Yoga ThinkPad |
+| Room   |   Lichthof               |
+| Laptop |   Lenovo Yoga ThinkPad   |
 
 ### why
 
